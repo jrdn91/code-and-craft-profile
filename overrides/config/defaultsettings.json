@@ -1,0 +1,12 @@
+{
+  "version": "4.0.5",
+  "prevVersion": "4.0.4",
+  "generatedBy": "4591b8d3-0956-48fb-b3a5-fac322a02c91",
+  "hashes": {
+    "Default/keys.txt": "9081C20867AE76E7C232081BABF4159C",
+    "Default/options.txt": "0D05A8B7D63DB3130E04C6D9A26E9385",
+    "Default/optionsof.txt": "992F5FD3116206ED76AC2A3BF35EE01E"
+  },
+  "mainProfile": "Default",
+  "initially_created": "11.03.2023 10:54:55"
+}

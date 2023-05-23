@@ -1,0 +1,6 @@
+version:2975
+autoJump:false
+bobView:true
+resourcePacks:["vanilla","ModernFixFix (by StormDragon_64 - 1.18.2 ).zip","mod_resources","Supplementaries Generated Pack","quark:emote_resources","Everycomp Generated Pack"]
+incompatibleResourcePacks:["quark:emote_resources"]
+lang:en_us
